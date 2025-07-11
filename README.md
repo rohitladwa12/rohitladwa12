@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently developing [An E-Learning Platform for GM University](https://github.com/rohitladwa12/Leap.git)
 
-- 🌱 I’m currently learning **Circom, snarkjs, React.js, Machine Learning, Voice AI and many more...**
+- 🌱 I’m currently learning **snarkjs, React.js, laravel, Machine Learning, Voice AI and many more...**
 
 - 👯 I’m looking to collaborate on **Offline Speech-to-Speech AI Assistant**
 
