@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Ladwa</h1>
 <h3 align="center">Turning ideas into intelligent systems — one line of code at a time.</h3>
 
-- 🔭 I’m currently working on [An E-Learning Platform for GM University](https://github.com/rohitladwa12/Leap.git)
+- 🔭 I’m currently developing [An E-Learning Platform for GM University](https://github.com/rohitladwa12/Leap.git)
 
 - 🌱 I’m currently learning **Circom, snarkjs, React.js, Machine Learning, Voice AI and many more...**
 
