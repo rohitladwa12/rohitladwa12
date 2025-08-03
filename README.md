@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **snarkjs, React.js, laravel, Machine Learning, Voice AI and many more...**
 
-- 👯 I’m looking to collaborate on **Offline Speech-to-Speech AI Assistant**
+- 👯 I’m looking to collaborate on **Offline Speech-to-Speech AI Assistant and creating AI Agents for Automation using Python**
 
 - 🤝 I’m looking for help with **Zero-Knowledge Proof Login System**
 
