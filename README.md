@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Ladwa</h1>
 <h3 align="center">Turning ideas into intelligent systems — one line of code at a time.</h3>
 
-- 🔭 I’m currently developing [An E-Learning Platform for GM University](https://github.com/rohitladwa12/GMU_E-Learning_Platform_LEAP.git)
-
 - 🌱 I’m currently learning **snarkjs, React.js, laravel, Machine Learning, Voice AI and many more...**
 
 - 👯 I’m looking to collaborate on **Offline Speech-to-Speech AI Assistant and creating AI Agents for Automation using Python**
